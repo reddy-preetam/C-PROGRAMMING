@@ -1,0 +1,52 @@
+1. Conditional Statement
+
+Definition:
+A conditional statement is used to make a decision in a program based
+ on whether a condition is true or false.
+
+
+2. if Statement
+
+Definition:
+The if statement 
+executes a block of code only when the given condition is true.
+
+
+
+3. if-else Statement
+
+Definition:
+The if-else statement executes one block when the condition is true 
+and another block when the condition is false.
+
+
+
+
+4. else-if Ladder
+
+Definition:
+An else-if ladder is used to check multiple conditions one by one
+. The block of the first true condition is executed.
+
+5. Nested if
+
+Definition:
+A nested if is an if statement inside another if statement.
+
+
+6. switch Statement
+
+Definition:
+The switch statement is used to select one option
+ from multiple choices based on the value of an expression.
+
+
+ 7. Conditional Operator ?:
+
+Definition:
+The conditional operator is a short form of if-else.
+ It is also called the ternary operator because it uses three operands.
+
+Syntax:
+
+condition ? expression1 : expression2;
