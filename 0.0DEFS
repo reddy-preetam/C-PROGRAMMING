@@ -1,0 +1,59 @@
+Function
+A function is a block of code that performs a specific task.
+
+Function Declaration
+A function declaration tells the compiler about a function before it is used.
+
+Function Definition
+A function definition contains the actual code of a function.
+
+Function Call
+A function call is used to execute a function.
+
+Return Type
+Return type specifies the type of value returned by a function.
+
+Parameter
+A parameter is a variable that receives a value in a function.
+
+Argument
+An argument is a value passed to a function when it is called.
+
+Return Statement
+The return statement sends a value back from a function and ends its execution.
+
+Void Function
+A void function is a function that does not return any value.
+
+Library Function
+A library function is a predefined function provided by the C library.
+
+User-Defined Function
+A user-defined function is a function created by the programmer.
+
+Recursive Function
+A recursive function is a function that calls itself.
+
+Call by Value
+Call by value passes a copy of the value to a function.
+
+Call by Reference
+Call by reference passes the address of a variable to a function.
+
+Local Variable
+A local variable is a variable declared inside a function or block.
+
+Global Variable
+A global variable is a variable declared outside all functions.
+
+Function with Arguments
+A function with arguments receives values from the calling function.
+
+Function without Arguments
+A function without arguments does not receive values from the calling function.
+
+Function with Return Value
+A function with a return value sends a value back to the calling function.
+
+Function without Return Value
+A function without a return value does not send any value back.
