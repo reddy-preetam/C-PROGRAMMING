@@ -1,59 +1,55 @@
-Function
-A function is a block of code that performs a specific task.
+Pointer
+A pointer is a variable that stores the memory address of another variable.
 
-Function Declaration
-A function declaration tells the compiler about a function before it is used.
+Pointer Variable
+A pointer variable is a variable used to store the address of another variable.
 
-Function Definition
-A function definition contains the actual code of a function.
+Address-of Operator (&)
+The & operator is used to get the memory address of a variable.
 
-Function Call
-A function call is used to execute a function.
+Dereference Operator (*)
+The * operator is used to access the value stored at a memory address.
 
-Return Type
-Return type specifies the type of value returned by a function.
+Pointer Declaration
+Pointer declaration defines a pointer variable that can store an address.
+Example:
+int *p;
 
-Parameter
-A parameter is a variable that receives a value in a function.
 
-Argument
-An argument is a value passed to a function when it is called.
+Pointer Initialization
+Pointer initialization means assigning the address of a variable to a pointer.
+Example:
+int a = 10;
+int *p = &a;
 
-Return Statement
-The return statement sends a value back from a function and ends its execution.
 
-Void Function
-A void function is a function that does not return any value.
+NULL Pointer
+A NULL pointer is a pointer that does not point to any valid memory location.
+int *p = NULL;
 
-Library Function
-A library function is a predefined function provided by the C library.
 
-User-Defined Function
-A user-defined function is a function created by the programmer.
+Pointer to Pointer
+A pointer to pointer is a pointer that stores the address of another pointer.
+int **p;
 
-Recursive Function
-A recursive function is a function that calls itself.
 
-Call by Value
-Call by value passes a copy of the value to a function.
+Pointer Arithmetic
+Pointer arithmetic means performing operations such as addition and subtraction on pointers.
 
-Call by Reference
-Call by reference passes the address of a variable to a function.
+Pointer to Array
+A pointer to an array is a pointer that stores the address of an array element or array.
 
-Local Variable
-A local variable is a variable declared inside a function or block.
+Pointer to Function
+A function pointer is a pointer that stores the address of a function.
 
-Global Variable
-A global variable is a variable declared outside all functions.
+Pointer to Structure
+A structure pointer is a pointer that stores the address of a structure variable.
 
-Function with Arguments
-A function with arguments receives values from the calling function.
+Wild Pointer
+A wild pointer is an uninitialized pointer that contains an unknown address.
 
-Function without Arguments
-A function without arguments does not receive values from the calling function.
+Dangling Pointer
+A dangling pointer is a pointer that refers to memory that is no longer valid.
 
-Function with Return Value
-A function with a return value sends a value back to the calling function.
-
-Function without Return Value
-A function without a return value does not send any value back.
+Void Pointer
+A void pointer is a pointer that can store the address of any data type.
