@@ -1,0 +1,11 @@
+String
+String is a collection of characters stored in a character array and terminated by a null character \0.
+
+Character Array
+A character array is an array used to store multiple characters. It can be used to store a string.
+
+Null Character \0
+\0 is a special character that marks the end of a string in C.
+
+String Declaration
+String ko declare karne ke liye character array use karte hain.
